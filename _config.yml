@@ -1,5 +1,29 @@
 title: Jonathan Jacobo
-#description: Hacker is a theme for GitHub Pages.
-#show_downloads: true
-google_analytics:
+email: your-email@example.com
+date_of_birth: MM/DD/YYYY
+contact_info:
+  phone: your-phone-number
+  address: your-address
+  linkedin: your-linkedin-url
+  github: https://github.com/yourgithubusername
+  resume: https://yourwebsite.com/resume.pdf
+description: >-
+  Welcome to my portfolio! I am a developer passionate about coding, technology, and building awesome projects.
+baseurl: "" # The subpath of your site, e.g., /blog
+url: "https://yourgithubusername.github.io" # Your GitHub Pages URL
+github_username: yourgithubusername
+
+# Theme settings
 theme: jekyll-theme-hacker
+
+# Show download links for project files
+show_downloads: true
+
+# Google Analytics (optional)
+google_analytics: UA-XXXXXXXXX-X
+
+# Education
+education:
+  degree: Bachelor of Science in Computer Science (In Progress)
+  institution: Saint Xavier University, Chicago
+  expected_graduation: May 2025
