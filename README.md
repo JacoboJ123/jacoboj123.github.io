@@ -15,7 +15,12 @@ Saint Xavier University, Chicago
 **Expected Graduation:** May 2025  
 
 ## Projects
-
+- [Shopping Page](https://github.com/JacoboJ123/Shopping-Page) - Fake shopping page with PHP.
+- [Vowel Counter](https://github.com/JacoboJ123/Vowel-counter) - Counts all the vowels that are in your inputted sentence.
+- [Dice Game](https://github.com/JacoboJ123/Dice-game) - Test your luck with this random dice generator.
+- [Hangman](https://github.com/JacoboJ123/Hangman) - Try to guess the word before you run out of tries.
+- [TicTacToe](https://github.com/JacoboJ123/TicTacToe) - A simple TicTacToe game that you can play with your friend.
+- 
 ## Skills
-- Programming Languages: SQL, HTML, JAVA
-- Tools & Technologies: MYSQL, EXCEL
+- Programming Languages: SQL, HTML, PHP, JAVA
+- Tools & Technologies: MYSQL, EXCEL, XAMPP
