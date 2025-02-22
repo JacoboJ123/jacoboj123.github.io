@@ -2,7 +2,7 @@
 - **Email:** jonathan.jacobo132@gmail.com  
 - **Phone:** 708-270-4729  
 - **Address:** 13415 Greenwood Avenue, Blue Island, IL  
-- **LinkedIn:** [Jonathan Jacobo](www.linkedin.com/in/jonathan-jacobo-0319ab295) 
+- **LinkedIn:** [Jonathan Jacobo](https://www.linkedin.com/in/jonathan-jacobo-0319ab295/)
 - **GitHub:** [JacoboJ123](https://github.com/JacoboJ123)
 - **Resume:** [View Resume (PDF)](https://github.com/JacoboJ123/jacoboj123.github.io/raw/main/docs/resume.pdf)
 
@@ -19,6 +19,3 @@ Saint Xavier University, Chicago
 ## Skills
 - Programming Languages: SQL, HTML, JAVA
 - Tools & Technologies: MYSQL
-
-## Portfolio Website
-[Visit My Portfolio](https://jacoboj123.github.io/)
