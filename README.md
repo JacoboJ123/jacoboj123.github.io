@@ -1,6 +1,6 @@
 ### Education
 Bachelor of Science in Computer Science (In Progress) 
-# Institution: 
+### Institution: 
 Saint Xavier University, Chicago
-# Expected Graduation Year:
+### Expected Graduation Year:
 May 2025
