@@ -2,7 +2,7 @@
 - **Email:** jonathan.jacobo132@gmail.com  
 - **Phone:** 708-270-4729  
 - **Address:** 13415 Greenwood Avenue, Blue Island, IL  
-- **LinkedIn:** [Jonathan Jacobo](https://www.linkedin.com/in/jonathan-jacobo-0319ab295)
+- **LinkedIn:** [Jonathan Jacobo](www.linkedin.com/in/jjacobo03)
 - **GitHub:** [JacoboJ123](https://github.com/JacoboJ123)
 - **Resume:** [View Resume (PDF)](https://JacoboJ123/jacoboj123.github.io/docs/resume.pdf)
 
@@ -22,5 +22,5 @@ Saint Xavier University, Chicago
 - [TicTacToe](https://github.com/JacoboJ123/TicTacToe) - A simple TicTacToe game that you can play with your friend.
 - 
 ## Skills
-- Programming Languages: SQL, HTML, PHP, JAVA
-- Tools & Technologies: MYSQL, EXCEL, XAMPP
+- Programming Languages: PYTHON, SQL, HTML, PHP, JAVA
+- Tools & Technologies: GIT, GITHUB, MYSQL, EXCEL, XAMPP
